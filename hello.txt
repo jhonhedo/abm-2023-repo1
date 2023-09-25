@@ -1,1 +1,2 @@
 hello Everyone!
+wee are learning git..
