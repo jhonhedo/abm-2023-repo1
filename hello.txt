@@ -3,6 +3,6 @@ changed by developer 1
 we are learning git.. push pull
 hii how are you git is ver powerfull
 
-we are learning git..
-hii how are you git is nice
+
+
 
