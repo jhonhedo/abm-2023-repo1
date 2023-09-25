@@ -2,7 +2,7 @@
 
 we are learning git.. push pull
 hii how are you git is ver powerfull
-in vs
+in vs code
 new branch fixbug
 
 
