@@ -1,2 +1,3 @@
 hello Everyone!
-wee are learning git..
+we are learning git..
+hii how are you git is ver powerfull
