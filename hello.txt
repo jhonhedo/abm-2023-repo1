@@ -1,3 +1,3 @@
 changed by developer 1
-we are learning git..
+we are learning git.. push pull
 hii how are you git is ver powerfull
